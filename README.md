@@ -1,4 +1,4 @@
-# Simulación del llenado del álbum de figuritas del mundial Qatar 2022 de Panini.
+# Simulación en R del llenado del álbum de figuritas del mundial Qatar 2022 de Panini.
 
 El álbum de figuritas del mundial tiene 670 figuritas distintas. La venta de estas se hace mediante sobres donde vienen 5. 
 
