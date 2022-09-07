@@ -10,13 +10,13 @@ Este programa imita la situación de una persona comprando sobres y pegando las 
 
 Además, con las simulaciones hechas graficamos el histograma de la cantidad de sobres necesarios para completar el álbum.
 
-##Se hacen algunas suposiciones: 
+## Se hacen algunas suposiciones: 
 
 -Todas las figuritas son equiprobables. 
 -La elección de las 5 figuritas que vienen en cada sobre es con reposición (por lo tanto, en un sobre puede haber figuritas repetidas).
 -Para completar el album siempre suponemos que no hay intercambios con otros coleccionistas de figuritas.
 
-##Resultados hallados en una corrida del programa:
+## Resultados hallados en una corrida del programa:
 
  La probabilidad estimada de llenar el album con 800 sobres es de 15.2  %. (1000 simulaciones).
  
@@ -31,7 +31,6 @@ Además, con las simulaciones hechas graficamos el histograma de la cantidad de 
 
 Los cuartiles para la cantidad de sobres necesarios son los siguientes:
 
- quantile(x)
   0%  25%  50%  75% 100% 
  595  834  922 1038 2014
  
