@@ -12,11 +12,11 @@ Además, con las simulaciones hechas graficamos el histograma de la cantidad de 
 
 ## Se hacen algunas suposiciones: 
 
--Todas las figuritas son equiprobables. 
+- Todas las figuritas son equiprobables. 
 
--La elección de las 5 figuritas que vienen en cada sobre es con reposición (por lo tanto, en un sobre puede haber figuritas repetidas).
+- La elección de las 5 figuritas que vienen en cada sobre es con reposición (por lo tanto, en un sobre puede haber figuritas repetidas).
 
--Para completar el album siempre suponemos que no hay intercambios con otros coleccionistas de figuritas.
+- Para completar el album siempre suponemos que no hay intercambios con otros coleccionistas de figuritas.
 
 
 ## Resultados hallados en una corrida del programa:
@@ -35,7 +35,7 @@ Además, con las simulaciones hechas graficamos el histograma de la cantidad de 
 
 Los cuartiles para la cantidad de sobres necesarios son los siguientes:
 
-  0%  25%  50%  75% 100% 
-  
- 595  834  922 1038 2014
+ | 0% | 25% | 50% | 75% | 100% |
+ | --- | --- | --- | --- | --- |
+ | 595 | 834 | 922 | 1038 | 2014 | 
  
