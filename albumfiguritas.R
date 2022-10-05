@@ -37,7 +37,7 @@ probaconnsobres= function(n, n_sobres){ #Estima la probabilidad de completar el 
   cat('La probabilidad estimada de llenar el album con ', n_sobres, ' sobres es de ', 100*exitos/n, ' %.')
 }
 
-cuantossobres=function(cant_figuritas){ #Esta simulación cuenta la cantidad de sobres que hacen falta hasta llenar el album desde 0.
+cuantossobres=function(cant_figuritas){ #Esta simulación cuenta la cantidad de sobres que hacen falta hasta llenar el album desde cero.
   album=rep(FALSE, cant_figuritas)
   sobres=0
   while (album_lleno(album)!=1) {
