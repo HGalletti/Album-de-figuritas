@@ -1,6 +1,6 @@
 # Simulación en R del llenado del álbum de figuritas del mundial Qatar 2022 de Panini.
 
-El álbum de figuritas del mundial tiene 670 figuritas distintas. La venta de estas se hace mediante sobres donde vienen 5. 
+El álbum de figuritas del mundial tiene 670 figuritas distintas. La venta de estas se hace mediante sobres donde vienen 5 figuritas. 
 
 Este programa imita la situación de una persona comprando sobres y pegando las figuritas del sobre en el album. Este programa mediante una cantidad predefinida de simulaciones permite estimas las respuestas de las siguientes preguntas:
 
