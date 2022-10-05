@@ -2,7 +2,7 @@
 
 El álbum de figuritas del mundial tiene 670 figuritas distintas. La venta de estas se hace mediante sobres donde vienen 5 figuritas. 
 
-Este programa imita la situación de una persona comprando sobres y pegando las figuritas del sobre en el album. Este programa mediante una cantidad predefinida de simulaciones permite estimas las respuestas de las siguientes preguntas:
+Este programa imita la situación de una persona comprando sobres y pegando las figuritas del sobre en el album. Mediante una cantidad predefinida de simulaciones permite estimar las respuestas de las siguientes preguntas:
 
 - Adquiridos una cantidad prefijada de sobres (por defecto 800), ¿qué probabilidad hay que se complete el album con las figuritas de esos sobres?
 
